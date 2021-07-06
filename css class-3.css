@@ -1,0 +1,41 @@
+.blog{
+
+    border: 5px solid red;
+    margin-top: 10px;
+    margin: 10px;
+padding: 10px;
+    text-align: center;
+    width: 40%;
+    float: ;
+    border-radius: 20px;
+  
+}
+h1:hover{
+    color: royalblue;
+}
+.blog2{
+    height: 200px;
+    width: 250px;
+    overflow: scroll;
+    border:solid seagreen;
+
+}
+input:focus{
+    color: rebeccapurple;
+}
+input{
+    font-size: 30px;
+}
+li:nth-child(2){
+    color: red;
+
+}
+h2::before{
+    content: "Hi";
+
+}
+body{
+    font-family: 'Courgette', cursive;
+font-family: 'Otomanopee One', sans-serif;
+font: size 5px;
+}
